@@ -34,34 +34,11 @@
   <img src="https://img.shields.io/badge/Deployment-Docker%20%7C%20Linux-0891B2?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and Linux deployment" />
 </p>
 
-🚀 Featured Projects
-<details>
-<summary><b>🏦 Microfinance Management System</b> · Django · PostgreSQL · Docker</summary>
-
-
-A business application I developed end-to-end for managing core microfinance operations.
-- Customer and operational workflows.
-- Loan and savings operations, EMI generation, collections, overdue handling, and closure workflows.
-- Django/Python application logic with PostgreSQL persistence.
-- Role-based operational workflows and approval processes.
-- Docker-based deployment on a VPS with Git source control.
-Stack: Python · Django · Django REST Framework · PostgreSQL · Docker · Git
-🔗 Repository / demo: Add the public project URL here when available.
-</details>
-
-<details>
-<summary><b>🤖 AI Resume Builder</b> · Django · React · AI API</summary>
-
-
-An AI-assisted application designed to help users create and export resume content.
-- AI API integration for resume content assistance.
-- Web interface with a PDF export workflow.
-- React frontend and Django backend.
-Stack: React · Django · PostgreSQL · Gemini API · PDF export
-🔗 Portfolio: jayanta-barman.vercel.app
-</details>
-
-Keep only the features and tools you personally implemented and can confidently explain in an interview. Add public repository links when ready.
+🚀 Featured Projects — Recently Active
+Projects below are refreshed automatically from public repositories with recent commits.
+<!-- ACTIVE_PROJECTS_START -->
+This section is updated automatically by GitHub Actions. The first run will populate it from your recent public repository activity.
+<!-- ACTIVE_PROJECTS_END -->
 
 📈 GitHub Analytics
 <div align="center">
