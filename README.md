@@ -1,80 +1,24 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jayanta+Barman;Full-stack+Developer;Building+modern+web+experiences" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="https://github.com/JBTech-git"><img src="https://img.shields.io/badge/GitHub-JBTech--git-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://jayanta-barman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-0ea5e9?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:jayantabarman.s2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge" alt="Email" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jaynovix) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jaynovix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TheJaynovix) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bjayanta584@gmail.com) 
 
-<p align="center">
-  <strong>Full-stack developer</strong> crafting clean, fast, and user-friendly digital experiences.
-  <br />
-  I turn ideas into polished products with a strong focus on <em>UI, performance, and product thinking</em>.
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JBTech-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JBTech-git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JBTech-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JBTech-git&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=JBTech-git&theme=radical&hide_border=true" alt="GitHub streak" height="180" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JBTech-git&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-<hr />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2 align="center">🚀 Core stack</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JBTech-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=JBTech-git&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<hr />
-
-<h2 align="center">✨ Featured work</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JBTech-git/MoneyBag">💰 MoneyBag</a></h3>
-      <p>A modern personal finance tracker focused on clarity, budgeting, and better money habits.</p>
-      <p><strong>Stack:</strong> TypeScript · React · Vite</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JBTech-git/portfolio0.2-">🖥️ portfolio0.2-</a></h3>
-      <p>A polished portfolio experience blending motion, product storytelling, and interactive design.</p>
-      <p><strong>Stack:</strong> React · TypeScript · Tailwind</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JBTech-git/billzee">🧾 billzee</a></h3>
-      <p>A sleek web app built for practical everyday use with a clean and approachable interface.</p>
-      <p><strong>Stack:</strong> Blade · Laravel · PHP</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📬 Open to work</h3>
-      <p>I’m actively exploring opportunities to build impactful products and collaborate on meaningful projects.</p>
-      <p><a href="https://jayanta-barman.vercel.app">Portfolio</a> · <a href="mailto:jayantabarman.s2@gmail.com">Email</a></p>
-    </td>
-  </tr>
-</table>
-
-<hr />
-
-<h2 align="center">🎯 Currently focused on</h2>
-
-<ul>
-  <li>Building more modern and user-centric frontend experiences</li>
-  <li>Improving performance, accessibility, and UX details</li>
-  <li>Designing practical full-stack solutions</li>
-  <li>Turning ideas into clean, launch-ready products</li>
-</ul>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JBTech-git&label=Profile+views&color=0ea5e9&style=flat" alt="Profile views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
