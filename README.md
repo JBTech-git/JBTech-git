@@ -1,24 +1,104 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jaynovix) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jaynovix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TheJaynovix) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bjayanta584@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050816,35:172554,70:4c1d95,100:06b6d4&text=JAYANTA%20BARMAN&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=AI%20%2B%20BACKEND%20ENGINEERING&descAlignY=60&descSize=18&animation=twinkling&stroke=22aaff&strokeWidth=1" width="100%" alt="Animated futuristic AI-themed banner for Jayanta Barman" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JBTech-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JBTech-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JBTech-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+PostgreSQL;Building+Reliable+APIs+%26+Business+Workflows;Exploring+Practical+AI+Integrations" alt="Animated typing introduction" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JBTech-git&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://jayanta-barman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jayanta-barman-747298211/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bjayanta584@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=jbtech-git&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views counter" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JBTech-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=JBTech-git&icon=2&color=0)](https://visitcount.itsvg.in)
+🧠 About Me
+- 🐍 3+ years of web development experience, focused on Python backend engineering.
+- ⚙️ Build applications and APIs with Python, Django, Django REST Framework, and PostgreSQL.
+- 🏦 Developed a Microfinance Management System end-to-end, supporting core operational workflows.
+- 🐳 Hands-on with Docker-based deployment, Git, and Linux/server fundamentals.
+- 🤖 Exploring practical AI integrations and AI-assisted application development.
+- 🎯 Currently strengthening API performance, testing, security, system design, and deployment practices.
+⚡ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,linux,nginx,postman,html,css,js,react,github,vscode&perline=8" alt="Technology icons: Python, Django, PostgreSQL, Redis, Docker, Git, Linux, Nginx, Postman, HTML, CSS, JavaScript, React, GitHub, VS Code" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-Engineering-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API engineering" />
+  <img src="https://img.shields.io/badge/AI-API%20Integrations-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI API integrations" />
+  <img src="https://img.shields.io/badge/Deployment-Docker%20%7C%20Linux-0891B2?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and Linux deployment" />
+</p>
+
+🚀 Featured Projects
+<details>
+<summary><b>🏦 Microfinance Management System</b> · Django · PostgreSQL · Docker</summary>
+
+
+A business application I developed end-to-end for managing core microfinance operations.
+- Customer and operational workflows.
+- Loan and savings operations, EMI generation, collections, overdue handling, and closure workflows.
+- Django/Python application logic with PostgreSQL persistence.
+- Role-based operational workflows and approval processes.
+- Docker-based deployment on a VPS with Git source control.
+Stack: Python · Django · Django REST Framework · PostgreSQL · Docker · Git
+🔗 Repository / demo: Add the public project URL here when available.
+</details>
+
+<details>
+<summary><b>🤖 AI Resume Builder</b> · Django · React · AI API</summary>
+
+
+An AI-assisted application designed to help users create and export resume content.
+- AI API integration for resume content assistance.
+- Web interface with a PDF export workflow.
+- React frontend and Django backend.
+Stack: React · Django · PostgreSQL · Gemini API · PDF export
+🔗 Portfolio: jayanta-barman.vercel.app
+</details>
+
+Keep only the features and tools you personally implemented and can confidently explain in an interview. Add public repository links when ready.
+
+📈 GitHub Analytics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jbtech-git&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbtech-git&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=jbtech-git&hide_border=true&theme=tokyonight&background=00000000" alt="GitHub contribution streak" width="70%" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbtech-git&bg_color=00000000&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
+</div>
+
+🐍 Contribution Animation
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbtech-git/jbtech-git/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jbtech-git/jbtech-git/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/jbtech-git/jbtech-git/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+  </picture>
+</div>
+
+🎯 Currently Leveling Up
+<p>
+  <img src="https://img.shields.io/badge/01-Python%20%26%20Django-0f766e?style=flat-square" alt="Python and Django" />
+  <img src="https://img.shields.io/badge/02-API%20Design%20%26%20Security-1d4ed8?style=flat-square" alt="API design and security" />
+  <img src="https://img.shields.io/badge/03-PostgreSQL%20Performance-7c3aed?style=flat-square" alt="PostgreSQL performance" />
+  <img src="https://img.shields.io/badge/04-Docker%20%26%20CI%2FCD-0891b2?style=flat-square" alt="Docker and CI/CD" />
+  <img src="https://img.shields.io/badge/05-AI%20Integrations-9333ea?style=flat-square" alt="AI integrations" />
+</p>
+
+🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayanta-barman-747298211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bjayanta584@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://jayanta-barman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06b6d4,50:4c1d95,100:050816" width="100%" alt="Animated gradient footer" />
+  <sub>⚡ Build with purpose · 🤖 Explore AI thoughtfully · 🚀 Ship reliably</sub>
+</div>
